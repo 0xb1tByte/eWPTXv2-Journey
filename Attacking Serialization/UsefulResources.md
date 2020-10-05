@@ -6,10 +6,13 @@
 ### Video : 
 #### Reflection in JAVA :
 - [ARABIC : ٣٨ - جلب المعلومات بإستخدام getClass](https://www.youtube.com/watch?v=HXm2lu_qcfw)
+#### Deserialization :
 - [ENGLISH : OWASP Top 10: Insecure Deserialization ](https://www.youtube.com/watch?v=nkTBwbnfesQ)
+- [OWASP insecure deserialization explained with examples](https://youtu.be/5grJYo9IqY0)
 
 ### Cheat sheets : 
 - [Deserialization Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Deserialization_Cheat_Sheet.html)
+- [Java-Deserialization-Cheat-Sheet](https://github.com/GrrrDog/Java-Deserialization-Cheat-Sheet)
 
 ### Labs : 
 - [DeserLab](https://github.com/NickstaDB/DeserLab)
