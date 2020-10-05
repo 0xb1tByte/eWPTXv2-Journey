@@ -10,3 +10,9 @@
 
 ### Cheat sheets : 
 - [Deserialization Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Deserialization_Cheat_Sheet.html)
+
+### Labs : 
+- [DeserLab](https://github.com/NickstaDB/DeserLab)
+
+### Tools : 
+- [ysoserial](https://github.com/frohoff/ysoserial)
