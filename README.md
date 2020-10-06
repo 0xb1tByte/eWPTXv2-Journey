@@ -13,8 +13,8 @@ This repository is intended just for supporting & helping me during my [eWPTXv2]
 * [x] Module 7 : SQL Injection
 * [x] Module 8 : SQLi - Filter Evasion and WAF Bypassing
 * [x] Module 9 : XML Attacks
-* [ ] Module 10 : Attacking Serialization (NEW!) :pushpin:
-* [ ] Module 11 : Server Side Attacks (NEW!)
+* [x] Module 10 : Attacking Serialization (NEW!) 
+* [ ] Module 11 : Server Side Attacks (NEW!) :pushpin:
 * [ ] Module 12 : Attacking Crypto (NEW!)
 * [ ] Module 13 : Attacking Authentication & SSO (NEW!)
 * [ ] Module 14 : Pentesting APIs & Cloud Applications (NEW!)
